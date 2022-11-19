@@ -1,0 +1,18 @@
+.banner {
+  background-image: url(https://media.istockphoto.com/id/1324845377/photo/business-arrow-increase-of-success-graph-and-growth-stock-market-earnings-financial-on-profit.jpg?b=1&s=170667a&w=0&k=20&c=sjCaOsOjl-_9EtSCK0ihkTc_4Z2r2wdeyy_VwCd0hBA=);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0px;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.banner p {
+  color: white;
+  font-size: 25px;
+  margin-bottom: 40px;
+  text-shadow:10px 10px 10px rgba(0,0,0,0.4)
+}
